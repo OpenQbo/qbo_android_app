@@ -31,9 +31,11 @@ You will be able to:
 
 
 === Google Play ===
+
 Version 2 available at https://play.google.com/store/apps/details?id=com.thecorpora.qbo.androidapk
 
 
 === License ===
+
 GPLv2
 
